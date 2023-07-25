@@ -1,0 +1,8 @@
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\bin\Debug\Day12Assessment15.exe.config
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\bin\Debug\Day12Assessment15.exe
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\bin\Debug\Day12Assessment15.pdb
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\obj\Debug\Day12Assessment15.csproj.AssemblyReference.cache
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\obj\Debug\Day12Assessment15.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\obj\Debug\Day12Assessment15.csproj.CoreCompileInputs.cache
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\obj\Debug\Day12Assessment15.exe
+D:\Simply Learn\Day12\Day12Assessment15\Day12Assessment15\obj\Debug\Day12Assessment15.pdb
